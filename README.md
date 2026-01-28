@@ -266,17 +266,6 @@ xgboost==2.0.3
 5. **F1 Score**: Harmonic mean of precision and recall
 6. **MCC (Matthews Correlation Coefficient)**: Correlation between predicted and actual labels (-1 to +1)
 
----
-
-## Future Improvements
-
-1. **Hyperparameter Tuning**: Use GridSearchCV or RandomizedSearchCV
-2. **Feature Engineering**: Create interaction features and polynomial features
-3. **Class Imbalance Handling**: Apply SMOTE or class weights
-4. **Cross-Validation**: Implement k-fold cross-validation
-5. **Feature Selection**: Use feature importance and recursive feature elimination
-6. **Deep Learning**: Experiment with neural networks
-7. **Explainability**: Add SHAP values or LIME for model interpretation
 
 ---
 
@@ -284,11 +273,6 @@ xgboost==2.0.3
 
 This project was completed as part of ML Assignment 2 for M.Tech (AIML/DSE) program. All code is original and developed specifically for this assignment. The Adult Income dataset is publicly available from UCI Machine Learning Repository.
 
----
-
-## License
-
-This project is created for academic purposes as part of BITS Pilani M.Tech coursework.
 
 ---
 
@@ -296,9 +280,8 @@ This project is created for academic purposes as part of BITS Pilani M.Tech cour
 
 **Course**: Machine Learning  
 **Program**: M.Tech (AIML/DSE)  
-**Institution**: BITS Pilani - Work Integrated Learning Programmes  
 **Assignment**: ML Assignment 2  
-**Submission Deadline**: 15-Feb-2026
+
 
 ---
 
@@ -315,8 +298,6 @@ This project is created for academic purposes as part of BITS Pilani M.Tech cour
 
 ## Contact
 
-For any queries regarding this project, please contact through the BITS Learning Management System.
+For any queries regarding this project, please contact Sanskar Gupta
 
 ---
-
-**Note**: This README content should be included in the final submission PDF along with GitHub repository link, Streamlit app link, and BITS Virtual Lab screenshot.
